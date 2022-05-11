@@ -1,4 +1,4 @@
-#  :fa-circle: :fa-desktop:  TecnoDigital 
+TecnoDigital 
 Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en lo que estas buscando.  
 
 
@@ -17,7 +17,7 @@ Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plat
 
 
 ------------
- :tw-1f4d6:  Historia
+Historia
  
 >> TecnoDigital fue creado de 4 integrantes de distintos paises de origen, en el cual la idea principal  se basaba en buscar una experiencia de compra amigable con el tema de tecnológia, y así tener en mente la compra en componentes tecnológicos para nuestros usuarios en un enfoque joven, donde la tecnologia es parte del día a día en su vida.
 
