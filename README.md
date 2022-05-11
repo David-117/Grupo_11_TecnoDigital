@@ -17,7 +17,7 @@ Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plat
 ------------
 Público Objetivo
 
-
+Nuestro público objetivo será enfocado a jovenes y en general a todo público que tenga conocimientos básicos sobre hardware, puesto que las mismas especificaciones de las tarjetas de nuestros productos serán lo mas especificas. Con ellos se podrá tener una idea la persona de como armar su kit para su PC.
 
 
 ------------
@@ -44,7 +44,7 @@ Sitios de referencia <br>
 
 - [emakers](https://www.emakers.com.ar/ "emakers")
 
-
+------------
 
 **2022-05-10 - Tuesday**
 
