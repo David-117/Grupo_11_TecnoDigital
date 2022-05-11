@@ -1,4 +1,5 @@
-TecnoDigital 
+<h1>TecnoDigital</h1>
+
 Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en lo que estas buscando.  
 
 
