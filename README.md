@@ -4,14 +4,15 @@ Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plat
 
 
 - Ofrecemos productos de tecnologia tanto para el ámbito gamer o para un publico general. Puesto que tendras todos los datos especificos sobre tu producto , la oferta de productos se centra en: 
-				- Laptos   
-				- Teclados  
-				- Mouse
-				- Motherboards
-				- Tarjetas gráficas
-				- Gabinetes
-				- Monitores.
-				- Fuentes de alimentación
+
+				- Laptos <br>  
+				- Teclados  <br>
+				- Mouse <br>
+				- Motherboards <br>
+				- Tarjetas gráficas <br>
+				- Gabinetes <br>
+				- Monitores <br>
+				- Fuentes de alimentación <br>
 				- Kits gamers
 
 
