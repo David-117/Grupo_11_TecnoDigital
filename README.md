@@ -33,13 +33,17 @@ Historia
 - David Gómez
 
 ------------
+
 Sitios de referencia <br>
 
-1.- https://www.garbarino.com/?mshops-cookie-isguest=true&mshops-redirection-timestamp=1652148767781
-2.- https://www.musimundo.com/?gclid=CjwKCAjw9-KTBhBcEiwAr19ig_y-s5BOP6wEi9IxP6jzPEN0loO2fLViEKoY54j9UUlM0WZ75Sh-xBoCtu0QAvD_BwE
-3.- https://www.fravega.com/
-4.- https://compragamer.com/
-5.- https://www.emakers.com.ar/ 
+ * [garbarino](https://www.garbarino.com/?mshops-cookie-isguest=true&mshops-redirection-timestamp=1652148767781 "garbarino")
+ - [musimundo](https://www.musimundo.com/?gclid=CjwKCAjw9-KTBhBcEiwAr19ig_y-s5BOP6wEi9IxP6jzPEN0loO2fLViEKoY54j9UUlM0WZ75Sh-xBoCtu0QAvD_BwE "musimundo")
+
+- [fravega](https://www.fravega.com/ "fravega")
+- [compragamer](https://compragamer.com/ "compragamer")
+
+- [emakers](https://www.emakers.com.ar/ "emakers")
+
 
 
 **2022-05-10 - Tuesday**
