@@ -1,5 +1,5 @@
 <h1>TecnoDigital</h1>
-
+![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
 Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en lo que estas buscando.  
 
 
@@ -27,10 +27,10 @@ Historia
 
 
 #### Integrantes del proyecto
-- 
-- 
-- 
-- David Gómez
+
+- David Miron Sarnago ( Desarrollador )
+- German Hwang ( Desarrollador )
+- David Gómez ( Desarrollador )
 
 ------------
 
