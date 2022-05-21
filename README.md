@@ -1,5 +1,5 @@
 <h1>TecnoDigital</h1>
-![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
+
 Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en tema de componentes de hardware para el armado de tu PC, y con ello puedas tener un mejor rendimiento en tus actividades del dia a dia.
 
 
