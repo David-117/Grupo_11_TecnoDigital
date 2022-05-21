@@ -1,11 +1,11 @@
 <h1>TecnoDigital</h1>
 ![GitHub Oscuro](https://github.com/github-dark.png#gh-light-mode-only)
-Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en lo que estas buscando.  
+Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plataforma busca darte la mejor experiencia de compra enfocado en tema de componentes de hardware para el armado de tu PC, y con ello puedas tener un mejor rendimiento en tus actividades del dia a dia.
 
 
 - Ofrecemos productos de tecnologia tanto para el ámbito gamer o para un publico general. Puesto que tendras todos los datos especificos sobre tu producto , la oferta de productos se centra en: 
 
-				- Laptos  
+				- Laptos 
 				- Teclados  
 				- Mouse 
 				- Motherboards 
@@ -23,7 +23,7 @@ Nuestro público objetivo será enfocado a jovenes y en general a todo público 
 ------------
 Historia
  
->> TecnoDigital fue creado de 4 integrantes de distintos paises de origen, en el cual la idea principal  se basaba en buscar una experiencia de compra amigable con el tema de tecnológia, y así tener en mente la compra en componentes tecnológicos para nuestros usuarios en un enfoque joven, donde la tecnologia es parte del día a día en su vida.
+>> TecnoDigital fue creado de 4 integrantes de distintos países de origen, en el cual la idea principal  se basaba en buscar una experiencia de compra amigable con el tema de tecnológia, y así tener en mente la compra en componentes tecnológicos para nuestros usuarios en un enfoque juvenil, donde la tecnologia es parte del día a día en su vida.
 
 
 #### Integrantes del proyecto
