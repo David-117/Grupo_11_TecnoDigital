@@ -17,7 +17,7 @@ Somos una e-commerce enfocada en el mercado tecnológico. Con ello, nuestra plat
 ------------
 Público Objetivo
 
-Nuestro público objetivo será enfocado a jovenes y en general a todo público que tenga conocimientos básicos sobre hardware, puesto que las mismas especificaciones de las tarjetas de nuestros productos serán lo mas especificas. Con ellos se podrá tener una idea la persona de como armar su kit para su PC.
+Nuestro público objetivo será enfocado a un público juvenil que tenga conocimientos básicos sobre componentes de hardware, puesto que las mismas especificaciones de nuestros  productos serán lo mas especificas. Con ello,la persona podra seleccionar el componente que mas vaya a sus necesidades para armar su kit para su PC.
 
 
 ------------
@@ -30,11 +30,13 @@ Historia
 
 - David Miron Sarnago ( Desarrollador )
 - German Hwang ( Desarrollador )
-- David Gómez ( Desarrollador )
+- David Gómez ( Jefe de proyecto / Desarrollador )
 
 ------------
 
 Sitios de referencia <br>
+
+A continuación mostramos 5 sitios que comparten la idea principal de tecno digital, es decir, los componentes de hardware. Con ello se realizo un analisis a estos sitios para poder combinar la experiencia tanto en el diseño y experiencia de usuario. Tambien el tema de colores y como el primer impacto al entrar a una pagina es la combinacion de colores, así como el diseño entre otros puntos. Con ello ponemos los links de los diferentes sitios. 
 
  * [garbarino](https://www.garbarino.com/?mshops-cookie-isguest=true&mshops-redirection-timestamp=1652148767781 "garbarino")
  - [musimundo](https://www.musimundo.com/?gclid=CjwKCAjw9-KTBhBcEiwAr19ig_y-s5BOP6wEi9IxP6jzPEN0loO2fLViEKoY54j9UUlM0WZ75Sh-xBoCtu0QAvD_BwE "musimundo")
@@ -46,5 +48,4 @@ Sitios de referencia <br>
 
 ------------
 
-**2022-05-10 - Tuesday**
 
