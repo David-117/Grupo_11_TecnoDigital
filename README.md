@@ -48,4 +48,8 @@ A continuación mostramos 5 sitios que comparten la idea principal de tecno digi
 
 ------------
 
+LINK DE TRELLO PARA LA ORGANIZACION DEL SEGUNDO SPRINT
+
+  ------ >     https://trello.com/b/AYnY6VVS/sprint-2
+
 
