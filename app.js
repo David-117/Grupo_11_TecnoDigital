@@ -11,6 +11,11 @@ app.get('/', (request, response) => {
     response.sendFile(path.join(__dirname, './views/home.html'));
 });
 
+app.get('/login', (request, response) => {
+    response.sendFile(path.join(__dirname, './views/login.html'));
+});
+
+
 /* ------Servidor en escucha ---*/
 app.listen(3005, () => {
     console.log('Servidor corriendo');
