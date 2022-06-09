@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* -------- header ------*/
+header {
+    padding: 15px;
+    border: 2px solid rgb(98, 0, 255);
+    background: linear-gradient(to right,#661AF5,#0F3DF8,#1D0DDE,#900DDE);
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo .login{
+    font-size: 15px;
+}
+
+.titulo div h1 {
+    font-size: 17px;
+}
+
+.buscador {
+    width: 30%;
+    height: 50px;
+    padding: 5px;
+    flex-wrap: nowrap;
+}
+
+.busqueda{
+    width: 90px;
+}
+
+.lupa{
+    display: none;
+}
+
+input {
+    width: 90%;
+    height: 90%;
+    color: var(--gris-fuerte);
+    border-radius: 5px;
+}
+
+.carro-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carro-login .carrito {
+    font-size: 15px;
+    padding: 10px;
+    justify-content: flex-end;
+}
+
+.nav-bar ul {
+    list-style: none; 
+    display: flex;
+    padding: 5px;
+
+ 
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.923);
+    padding: 9px;
+    font-size: var(--titulares);
+    display: none;
+}
+
+/* <-----body-----> */
+
+body {
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+
+body {
+    background-color: #900DDE;
+}
+
+body header{
+    background: linear-gradient(to right,#661AF5,#0F3DF8,#1D0DDE,#900DDE);
+}
+
+.unidad{
+    width: 40px;
+}
+
+.imagen-producto {
+    display: block;
+    width: 300px;
+    margin: auto;
+    border: solid 1px black;
+}
+
+body section div{
+    margin-top: 25px;
+}
+
+body div img{
+    width: 125px;
+}
+
+.nombre-articulo-derecha{
+    display: none;
+}
+
+.corazon{
+    color: red;
+}
+
+/*  --------footer -----*/
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+footer i {
+    color:white;
+}
+
+.footer-contenido {
+    color: white;
+    font-size: var(--titulares);
+}
+
+footer div{
+    color: white;
+    padding: 7px;
+    display: flex;
+    flex-direction: column;
+}
+
+@media (min-width: 361px) {
+    
+}
+
+@media (min-width: 769px) {
+
+}
