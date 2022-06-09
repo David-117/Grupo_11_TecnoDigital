@@ -1,0 +1,218 @@
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 15px;
+    background: linear-gradient(to right,rgb(20, 135, 163) 300px,rgb(20, 135, 163) 400px);
+    /*background: linear-gradient(to right,rgb(45, 205, 211),brown,orange,rgb(233, 33, 33));*/
+}
+.titulo {
+
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    justify-content: space-between;
+}
+.titulo .login{
+    font-size: 2em;
+    color: white;
+}
+
+.titulo div h1 {
+    font-size: 2em;
+    font-family: var(--fuente);
+    color: white;
+}
+.buscador {
+    width: 30%;
+    height: 50px;
+    padding: 5px;
+    flex-wrap: nowrap;
+}
+input {
+    width: 90%;
+    height: 90%;
+    color: var(--gris-fuerte);
+    border-radius: 5px;
+}
+
+.carro-login {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    justify-content: center;
+
+}
+
+.carro-login .carrito {
+    
+    font-size: 2em;
+    padding: 20px;
+    justify-content: space-around;
+    color: white;
+
+}
+.nav-bar {
+    border-radius: 5px;
+    border-top: 3px solid rgb(255, 255, 255);
+    border-bottom: 3px solid rgb(255, 255, 255);
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    flex-wrap: wrap;
+}
+
+.nav-bar ul {
+    list-style: none; 
+    display: flex;
+    padding: 5px;
+
+ 
+}
+.nav-bar ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.923);
+    padding: 9px;
+    font-size: var(--titulares);
+    font-family: var(--fuente);
+}
+/*------ Imagen del login ----*/
+
+.imagen-login {
+    height: 100px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 50px;
+}
+
+.imagen-login i {
+    font-size: 6em;
+}
+
+/*----- formulario ----*/ 
+.container-padre {
+    padding: 40px;
+    height: 600px;
+    background-color: rgb(21, 70, 53);
+
+}
+.form-container{
+    box-shadow: 0px 0px 10px rgb(52, 53, 53); 
+    border:1px solid rgb(0, 0, 0);
+    margin: 25px;
+    width: 500px;
+    height: 100%;
+    padding: 15px;
+    margin: auto;
+    border-radius: 10px;
+    background: linear-gradient(to right,rgb(197, 241, 255),rgb(37, 200, 206),rgb(0, 255, 242),rgb(126, 233, 224));
+
+}
+
+.email {
+    text-align: center;
+    height: 80px;
+    
+    
+}
+.email label{
+    
+    display: block;
+}
+.email input {
+
+    padding: 5px;
+    width: 60%;
+    height: 40%;
+}
+
+
+.contraseña {
+    text-align: center;
+    display: block;
+    height: 80px;
+}
+.contraseña label {
+    display: block;
+}
+.contraseña input {
+    padding: 5px;
+    width: 60%;
+    height: 40%;
+}
+.contraseña a p{
+    margin-top: 8px;
+}
+/*------ boton enviar ---*/
+.boton-enviar {
+    height: 80px;
+    text-align: center;
+    padding: 15px;
+    
+}
+
+.boton-enviar button {
+    font-size: 1em;
+}
+
+
+/* ----- footer ------*/
+
+footer {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+footer i {
+    color:white;
+}
+
+.footer-contenido {
+    color: white;
+    font-size: var(--titulares);
+    padding: 15px;
+    display: flex;
+ }
+
+.footer-whatts {
+    text-align: center;
+    margin-right: 50px;
+    color: white;
+    
+}
+
+.footer-telefono {
+    text-align: center;
+    margin-right: 50px;
+    color: white;
+
+}
+
+.footer-correo {
+    text-align: center;
+    margin-right: 50px;
+    color: white;
+
+}
+
+.redes-sociales {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.redes-sociales p{
+    margin-right: 2em;
+}
+.facebook {
+    font-size: 2em;
+    margin-right: 50px;
+
+    
+}
+.instagram {
+    font-size: 2em;
+}

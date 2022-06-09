@@ -1,0 +1,23 @@
+{
+  "name": "tecnodigital",
+  "version": "1.0.0",
+  "description": "<h1>TecnoDigital</h1>",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/David-117/Grupo_11_TecnoDigital.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/David-117/Grupo_11_TecnoDigital/issues"
+  },
+  "homepage": "https://github.com/David-117/Grupo_11_TecnoDigital#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
