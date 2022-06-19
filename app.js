@@ -15,6 +15,13 @@ app.get('/login', (request, response) => {
     response.sendFile(path.join(__dirname, './views/login.html'));
 });
 
+app.get('/detalle-del-producto', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/detalle-del-producto.html'));
+});
+
+app.get('/carrito-de-compras', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/carrito.html'));
+});
 
 /* ------Servidor en escucha ---*/
 app.listen(3005, () => {

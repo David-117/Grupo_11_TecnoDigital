@@ -1,0 +1,197 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+/*  --------footer -----*/
+
+footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+footer i {
+    color:white;
+}
+
+.footer-contenido {
+    color: white;
+    font-size: var(--titulares);
+}
+
+footer div{
+    color: white;
+    padding: 7px;
+    display: flex;
+    flex-direction: column;
+}
+
+.lorem{
+    width: 70%;
+    margin: auto;
+}
+
+/* -------- header ------*/
+header {
+    padding: 15px;
+    border: 2px solid rgb(98, 0, 255);
+    background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
+}
+
+.titulo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.titulo .login{
+    font-size: 15px;
+}
+
+.titulo div h1 {
+    font-size: 17px;
+}
+
+.buscador {
+    width: 30%;
+    height: 50px;
+    padding: 5px;
+    flex-wrap: nowrap;
+}
+
+.busqueda{
+    width: 60%;
+}
+
+.lupa{
+    display: none;
+}
+
+input {
+    width: 90%;
+    height: 90%;
+    color: var(--gris-fuerte);
+    border-radius: 5px;
+}
+
+.carro-login{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.carro-login .carrito {
+    font-size: 15px;
+    padding: 10px;
+    justify-content: flex-end;
+}
+
+.nav-bar ul {
+    list-style: none; 
+    display: flex;
+    padding: 5px;
+
+ 
+}
+
+.nav-bar ul li a {
+    text-decoration: none;
+    color: rgba(255, 255, 255, 0.923);
+    padding: 9px;
+    font-size: var(--titulares);
+    display: none;
+}
+
+
+/* main */
+
+main{
+    background-color: antiquewhite;
+}
+
+.top{
+    display: flex;
+    flex-direction: row;
+    width: 235px;
+    justify-content: space-around;
+    margin-bottom: 25px;
+}
+
+.top-div{
+    border-bottom: 2px black solid;
+}
+
+.lista-productos{
+    border: 2px black solid;
+    display: flex;
+    flex-direction: row;
+    width: 95%;
+    margin: auto;
+    justify-content: space-between;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.producto{
+    position: relative;
+    left: 5px;
+}
+
+.cantidad-precio{
+    height: 75px;
+    display: flex;
+    position: relative;
+    right: 5px;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 175px;
+    top: 46px;
+}
+
+.cantidad{
+    width: 60px;
+    height: 20px;
+    position: relative;
+}
+
+.func-productos{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-bottom: 15px;
+}
+
+.costos{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 15px;
+}
+
+.costos-div{
+    display: flex;
+    justify-content: end;
+    position: relative;
+    right: 10px;
+}
+
+.envio-total{
+    margin-right: 10px;
+}
+
+.comprar-ahora{
+    display: flex;
+    justify-content: end;
+    padding-bottom: 30px;
+    padding-right: 5px;
+}
+
+@media (min-width: 361px) {
+    
+}
+
+@media (min-width: 769px) {
+
+}

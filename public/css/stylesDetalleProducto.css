@@ -8,7 +8,7 @@
 header {
     padding: 15px;
     border: 2px solid rgb(98, 0, 255);
-    background: linear-gradient(to right,#661AF5,#0F3DF8,#1D0DDE,#900DDE);
+    background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
 }
 
 .titulo {
@@ -87,7 +87,7 @@ body {
 }
 
 body header{
-    background: linear-gradient(to right,#661AF5,#0F3DF8,#1D0DDE,#900DDE);
+    background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
 }
 
 .unidad{
@@ -118,11 +118,13 @@ body div img{
 }
 
 /*  --------footer -----*/
+
 footer {
     background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
+    text-align: center;
 }
 
 footer i {
@@ -139,6 +141,11 @@ footer div{
     padding: 7px;
     display: flex;
     flex-direction: column;
+}
+
+.lorem{
+    width: 70%;
+    margin: auto;
 }
 
 @media (min-width: 361px) {
