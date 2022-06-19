@@ -23,6 +23,10 @@ app.get('/carrito-de-compras', (req, res) => {
     res.sendFile(path.join(__dirname, './views/carrito.html'));
 });
 
+app.get('/seccion', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/seccion.html'));
+});
+
 /* ------Servidor en escucha ---*/
 app.listen(3005, () => {
     console.log('Servidor corriendo');

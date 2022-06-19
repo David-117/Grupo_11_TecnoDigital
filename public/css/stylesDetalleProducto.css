@@ -7,7 +7,6 @@
 /* -------- header ------*/
 header {
     padding: 15px;
-    border: 2px solid rgb(98, 0, 255);
     background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
 }
 
