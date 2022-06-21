@@ -6,7 +6,7 @@ const app = express();
 app.use(express.static('public'));
 
 
-
+// Ruts 
 app.get('/', (request, response) => {
     response.sendFile(path.join(__dirname, './views/home.html'));
 });
@@ -26,7 +26,9 @@ app.get('/carrito-de-compras', (req, res) => {
 app.get('/seccion', (req, res) => {
     res.sendFile(path.join(__dirname, './views/seccion.html'));
 });
-
+app.get('/formulario-login', (req, res) => {
+    res.sendFile(path.join(__dirname, './views/formulario.html'));
+});
 
 
 /* ------Servidor en escucha ---*/

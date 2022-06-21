@@ -21,22 +21,22 @@ header {
     background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
     /*background: linear-gradient(to right,rgb(45, 205, 211),brown,orange,rgb(233, 33, 33));*/
 }
-.titulo {
 
+
+
+.titulo {
     display: flex;
     align-items: center;
     padding: 5px;
     justify-content: space-between;
 }
+
 .titulo .login{
     font-size: 2em;
     color: white;
 }
 
-.titulo div h1 {
-    font-size: 2em;
-    font-family: var(--fuente);
-}
+
 .buscador {
     width: 30%;
     height: 50px;
@@ -231,17 +231,23 @@ footer i {
 }
 
 
-
-
-
-
-
-
-
-
-
-
 @media screen and (min-width:361px) {
+    header{
+        width: 100%;
+    }
+
+    .titulo-container {
+        width: 50%;
+        border: 1px solid red;
+    }
+
+    .buscador{
+        width: 50%;
+        border: 1px solid red;
+
+    }
+
+
 
     .nav-bar{
         display: none;

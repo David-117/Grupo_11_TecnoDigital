@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
+    <script src="https://kit.fontawesome.com/2da8e91210.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="/css/styles-formulario.css">
+    <title> login </title>
+</head>
+<body>
+    <header>
+        <div class="titulo"> 
+            <div>
+                <h1> TECNO DIGITAL </h1>  
+            </div>
+            <div class="buscador"> 
+                <input type="text"  placeholder="Buscar productos">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+            <div class="carro-login">
+            <div class="login"> 
+                <i class="fa-solid fa-user"></i>
+            </div>
+            <div class="carrito">
+                <i class="fa-solid fa-cart-shopping"></i>
+            </div>
+        </div>
+        </div>
+        
+        <div class="nav-bar">
+            <ul class="primera-seccion">
+                <li><a href="#"> Inicio </a></li>
+                <li><a href="#"> Laptops </a></li>
+                <li><a href="#"> Teclado </a></li>
+                <li><a href="#"> Mouse </a></li>
+                <li><a href="#"> Motherboards </a></li>
+            </ul>
+            <ul class="segunda-seccion">
+                <li><a href="#"> Tarjetas graficas </a></li>
+                <li><a href="#"> Gabinetes </a></li>
+                <li><a href="#"> Monitores </a></li>
+                <li><a href="#"> Fuentes de aliemntacion </a></li>
+            </ul>
+        </div> 
+    </header>
+    <div class="container-padre">
+    <div class="form-container">
+
+    <form action="/formulario" method="POST">
+            <div class="imagen-login">
+                <i class="fa-solid fa-circle-user"></i>
+            </div>
+            <div class="nombre">
+                <label for="nombre"> Ingresa tu nombre </label>
+                <input type="text" name="nombre" id="nombre" placeholder="Ingresa tu nombre">
+             </div>
+             <div class="correo">
+                <label for="correo"> Ingresa tu correo electronico </label>
+                <input type="text" name="correo" id="correo" placeholder="Ingresa un correo electronico">
+             </div>
+             <div class="contraseña">
+                <label for="contraseña"> Ingresa una contraseña  </label>
+                <input type="password" name="contraseña" id="contraseña" placeholder=" Ingresa una contraseña">
+             </div>
+             <div class="contraseña-confirmacion">
+                <label for="passwd"> Confirma tu contraseña </label>
+                <input type="password" name="usuario" id="passwd" placeholder="Confirma tu contraseña">
+                <a href="#"> <p> Olvide mi contraseña </p></a>
+             </div>
+             <div class="boton-enviar">
+                 <button type="submit"> Enviar </button>
+             </div>
+        </div>
+    </form>
+</div>
+
+
+
+
+
+
+
+    <footer>
+        <div class="footer-container">
+            <div class="footer-contenido">
+                <div class="footer-whatts">
+                    <i class="fa-brands fa-whatsapp"></i>
+                    <p> Contactanos  </p>
+                </div>
+                <div class="footer-telefono">
+                    <i class="fa-solid fa-phone"></i>
+                    <p> Numero de telefono  </p>
+                </div>
+                <div class="footer-correo">    
+                    <i class="fa-solid fa-envelope"></i>
+                    <p> tecnofigital@digital.com </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-container">
+             <div class="footer-contenido">
+                         <div class="redes-sociales">
+                            <p> TecnoDigital  </p>
+                         <div class="facebook">
+                            <i class="fa-brands fa-facebook"></i>
+                         </div>
+                        <div class="instagram">
+                             <i class="fa-brands fa-instagram"></i>
+                        </div>
+                    </div>
+             </div>
+        </div>
+    </footer>
+    
+</body>
+</html>

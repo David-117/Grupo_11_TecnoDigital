@@ -7,13 +7,13 @@
 /* -------- header ------*/
 header {
     padding: 15px;
-    background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
 }
 
 .titulo {
     display: flex;
     align-items: center;
     justify-content: space-between;
+    color:white
 }
 
 .titulo .login{
@@ -74,6 +74,10 @@ input {
     display: none;
 }
 
+.menu {
+    color:white;
+}
+
 /* <-----body-----> */
 
 body {
@@ -82,11 +86,11 @@ body {
 }
 
 body {
-    background-color: #900DDE;
+    background-color: antiquewhite;
 }
 
 body header{
-    background: linear-gradient(to right,rgb(0, 183, 255) 300px,rgb(4, 23, 75) 400px,rgb(255, 1, 1) 700px);
+    background: linear-gradient(to right,rgb(20, 135, 163) 300px,rgb(20, 135, 163) 400px);
 }
 
 .unidad{
